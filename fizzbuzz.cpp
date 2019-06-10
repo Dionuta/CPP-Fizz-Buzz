@@ -14,7 +14,7 @@ int main()
         {
             std::cout << "fizz\n";
         }
-        else if (i % 5 == 0 || i == 15)
+        else if (i % 5 == 0 )
         {
             std::cout << "buzz\n";
         }
